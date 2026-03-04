@@ -1,5 +1,4 @@
-- Hello there,
-  I’m @BoredSushiRoll, or Rareș, your friendly neighbourhood licensed Telecom Engineer with a tech stach that looks either impressive or crazy.
+- Hello there! I’m @BoredSushiRoll, or Rareș, your friendly neighbourhood licensed Telecom Engineer with a tech stach that looks either impressive or crazy.
    
   How to reach me :
 -      --------- Email --------- : 
