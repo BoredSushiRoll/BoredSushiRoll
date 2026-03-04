@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @BoredSushiRoll
-- 👀 I’m interested in AI, ML and Python!
-- 📫 How to reach me :
--      --------- email --------- : 
+-  Hello there,
+-  I’m @BoredSushiRoll, or Rareș, your friendly neighbourhood licensed Telecom Engineer with a tech stach that looks either impressive or crazy.
+-  
+- How to reach me :
+-      --------- Email --------- : 
 -       rares.dragan42@gmail.com
--      --------- instagram --------- : 
+-      --------- Instagram --------- : 
 -       https://www.instagram.com/rares_dragan/ 
--      --------- facebook --------- :  
+-      --------- Facebook --------- :  
 -       https://www.facebook.com/draressergiu
 
 <!---
