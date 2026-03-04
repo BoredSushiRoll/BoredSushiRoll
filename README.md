@@ -3,11 +3,11 @@
    
   How to reach me :
 -      --------- Email --------- : 
--       rares.dragan42@gmail.com
+        rares.dragan42@gmail.com
 -      --------- Instagram --------- : 
--       https://www.instagram.com/rares_dragan/ 
+        https://www.instagram.com/rares_dragan/ 
 -      --------- Facebook --------- :  
--       https://www.facebook.com/draressergiu
+        https://www.facebook.com/draressergiu
 
 <!---
 BoredSushiRoll/BoredSushiRoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
