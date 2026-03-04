@@ -1,7 +1,7 @@
--  Hello there,
--  I’m @BoredSushiRoll, or Rareș, your friendly neighbourhood licensed Telecom Engineer with a tech stach that looks either impressive or crazy.
--  
-- How to reach me :
+- Hello there,
+  I’m @BoredSushiRoll, or Rareș, your friendly neighbourhood licensed Telecom Engineer with a tech stach that looks either impressive or crazy.
+   
+  How to reach me :
 -      --------- Email --------- : 
 -       rares.dragan42@gmail.com
 -      --------- Instagram --------- : 
